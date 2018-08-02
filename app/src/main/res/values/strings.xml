@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">QuizTime</string>
+
+    <string name="question1">1.Layouts available in Androids</string>
+    <string name="q1Option1">Constraint Layout</string>
+    <string name="q1Option2">Relative Layout</string>
+    <string name="q1Option3">AppBar Layout</string>
+    <string name="q1Option4">Rectangluar Layout</string>
+    <string name="q1Answer">1</string>
+
+    <string name="question2">2. The broadcast that displays the information of low battery?</string>
+    <string name="q2Option1">android.intent.action.REBOOT</string>
+    <string name="q2Option2">android.intent.action.BATTERY_CHANGED</string>
+    <string name="q2Option3">android.intent.action.BATTERY_OKAY</string>
+    <string name="q2Option4">android.intent.action.BATTERY_LOW</string>
+    <string name="q2Answer">4</string>
+
+    <string name="question3">3. What is a base adapter in android?</string>
+    <string name="q3Option1">Base Adapter is a common class for any adapter, which can we use for both ListView and spinner</string>
+    <string name="q3Option2">A kind of adapter</string>
+    <string name="q3Option3">Data storage space</string>
+    <string name="q3Option4">None of the above</string>
+    <string name="q3Answer">1</string>
+
+    <string name="question4">4. A type of layout element that allows its children relative position depiction is</string>
+    <string name="q4Answer">Relative Layout</string>
+
+    <string name="question5">5. Usage of TextSize in android is using mesurement of</string>
+    <string name="q5Answer">sp</string>
+    <string name="option1">1</string>
+    <string name="option2">2</string>
+    <string name="option3">3</string>
+    <string name="option4">4</string>
+    <string name="submit">Submit</string>
+    <string name="score">You Scored </string>
+    <string name="outOf"> Out of 5.</string>
+    <string name="goodluck"> Good Luck :)</string>
+
+</resources>

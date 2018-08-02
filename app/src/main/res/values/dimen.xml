@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_margin_5dp">5dp</dimen>
+    <dimen name="card_upper_height">205dp</dimen>
+    <dimen name="card_lower_height">200dp</dimen>
+    <dimen name="card_elevation_upper">3dp</dimen>
+    <dimen name="card_elevation_lower">2dp</dimen>
+    <dimen name="corner_radius">4dp</dimen>
+    <dimen name="layout_padding_5dp">5dp</dimen>
+    <dimen name="margin_top_3dp">3dp</dimen>
+    <dimen name="textsize_16sp">16sp</dimen>
+</resources>
